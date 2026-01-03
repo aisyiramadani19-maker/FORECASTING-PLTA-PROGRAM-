@@ -1,9 +1,5 @@
 # FORECASTING-PLTA-PROGRAM-
 Program Forecasting PLTA Proyek
-==================================================
-README
-PROGRAM FORECASTING POTENSI PLTA
-==================================================
 
 Nama Program   : Aplikasi Forecasting Potensi PLTA
 Bahasa         : Python
